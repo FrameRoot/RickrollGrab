@@ -1,4 +1,5 @@
 #Windows Version 
+# This is a troll script , don't use it for bad purposes :(
 
 import requests
 from requests import get
