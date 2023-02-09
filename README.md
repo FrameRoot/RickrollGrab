@@ -7,7 +7,7 @@ This script will execute a rickroll on your victim while you recieve his compute
 - User on pc
 - etc...
 
-#Ideas
+# Ideas
 
 Thinking about putting a ip token grabber idk
 
