@@ -11,7 +11,6 @@ This script will execute a rickroll on your victim while you recieve his compute
 
 
 # Ideas
-
-Thinking about putting a ip token grabber idk
+No ideas XD
 
 
