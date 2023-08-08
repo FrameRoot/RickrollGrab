@@ -125,5 +125,6 @@ data["embeds"] = [
         "color" : 65280
     }
 ]
+os.system("start https://www.youtube.com/watch?v=xvFZjo5PgG0")
 result = requests.post(url, json = data)
 main()
